@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rythro
-- 👀 I’m interested in DataScience and Data Analytics
-- 🌱 I’m currently learning Pyhton, SQL, PowerBI, Advanced Excel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DataScience, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning AI, Pyhton, SQL, PowerBI,
+- 💞️ I’m looking to collaborate on FinTech AI Applications
+- 📫 How to reach me ozojinkiruka@gmail.com
 
 <!---
 Rythro/Rythro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
